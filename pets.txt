@@ -1,0 +1,6 @@
+1:caline:dog:maltese:0-1:male:no:no:no:bite:calinebatal01@gmail.com
+2:caline:cat:persian:0-1:male:yes:no:yes:sheds:cbbc564@gmail.com
+3:caline:dog:pitbul:0-1:female:yes:yes:no:bite:ce@gmail.com
+4:caline:cat:siamese:4-7:female:no:yes:no:needs attention:najjiii@hotmail.com
+5:caline:cat:siamese:4-7:female:no:yes:no:needs attention:najjiii@hotmail.com
+6:celine:dog:morkie:2-4:male:no:no:yes:He likes to bark a lot.:celinebatal2004@gmail.com
